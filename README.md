@@ -7,35 +7,35 @@ To analyze pizza sales data to understand business performance, customer orderin
 
 # Key Performance Indicators (KPIs)
 
-  The following metrics were calculated using SQL:
-  Total Revenue – Sum of total price of all pizza orders
-  Average Order Value – Total revenue divided by total number of orders
-  Total Pizzas Sold – Total quantity of pizzas sold
-  Total Orders – Count of total orders placed
-  Average Pizzas per Order – Total pizzas sold divided by total orders
+The following metrics were calculated using SQL:
+1.Total Revenue – Sum of total price of all pizza orders. 
+2.Average Order Value – Total revenue divided by total number of orders.
+3.Total Pizzas Sold – Total quantity of pizzas sold.
+4.Total Orders – Count of total orders placed.
+5. Average Pizzas per Order – Total pizzas sold divided by total orders.
 
 # Visual Analysis Performed
 
-  The following dashboards and charts were created in Power BI:
-  Daily Trend for Total Orders (Bar Chart)
-  Monthly/Hourly Trend for Total Orders (Line Chart)
-  Percentage of Sales by Pizza Category (Pie Chart)
-  Percentage of Sales by Pizza Size (Pie Chart)
-  Total Pizzas Sold by Category (Funnel Chart)
-  Top 5 Best Sellers by Revenue, Quantity & Orders (Bar Chart)
-  Bottom 5 Worst Sellers by Revenue, Quantity & Orders (Bar Chart)
+The following dashboards and charts were created in Power BI:
+1.Daily Trend for Total Orders (Bar Chart).
+2. Monthly/Hourly Trend for Total Orders (Line Chart).
+3. Percentage of Sales by Pizza Category (Pie Chart).
+4. Percentage of Sales by Pizza Size (Pie Chart).
+5. Total Pizzas Sold by Category (Funnel Chart).
+6. Top 5 Best Sellers by Revenue, Quantity & Orders (Bar Chart).
+7. Bottom 5 Worst Sellers by Revenue, Quantity & Orders (Bar Chart).
 
 ## Project Workflow
 
-  Imported raw pizza sales dataset into Microsoft SQL Server
-  Used SQL queries in SSMS to clean and transform the data
-  Calculated KPIs using SQL aggregations
-  Connected Power BI to SQL Server
-  Built interactive dashboards for business insights
+Imported raw pizza sales dataset into Microsoft SQL Server.
+Used SQL queries in SSMS to clean and transform the data.
+Calculated KPIs using SQL aggregations.
+Connected Power BI to SQL Server.
+Built interactive dashboards for business insights.
 
 # Tools & Technologies Used
 
-Microsoft SQL Server – Database storage
-SQL Server Management Studio (SSMS) – SQL querying & KPI calculations
-Power BI – Dashboard development and data visualization
-CSV Dataset – Pizza sales transactional data
+1. Microsoft SQL Server – Database storage
+2. SQL Server Management Studio (SSMS) – SQL querying & KPI calculations
+3. Power BI – Dashboard development and data visualization
+4. CSV Dataset – Pizza sales transactional data
