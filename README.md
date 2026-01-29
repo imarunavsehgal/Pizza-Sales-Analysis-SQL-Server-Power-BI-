@@ -7,31 +7,31 @@ To analyze pizza sales data to understand business performance, customer orderin
 
 # Key Performance Indicators (KPIs)
 
-The following metrics were calculated using SQL:
-Total Revenue – Sum of total price of all pizza orders
-Average Order Value – Total revenue divided by total number of orders
-Total Pizzas Sold – Total quantity of pizzas sold
-Total Orders – Count of total orders placed
-Average Pizzas per Order – Total pizzas sold divided by total orders
+  The following metrics were calculated using SQL:
+  Total Revenue – Sum of total price of all pizza orders
+  Average Order Value – Total revenue divided by total number of orders
+  Total Pizzas Sold – Total quantity of pizzas sold
+  Total Orders – Count of total orders placed
+  Average Pizzas per Order – Total pizzas sold divided by total orders
 
 # Visual Analysis Performed
 
-The following dashboards and charts were created in Power BI:
-Daily Trend for Total Orders (Bar Chart)
-Monthly/Hourly Trend for Total Orders (Line Chart)
-Percentage of Sales by Pizza Category (Pie Chart)
-Percentage of Sales by Pizza Size (Pie Chart)
-Total Pizzas Sold by Category (Funnel Chart)
-Top 5 Best Sellers by Revenue, Quantity & Orders (Bar Chart)
-Bottom 5 Worst Sellers by Revenue, Quantity & Orders (Bar Chart)
+  The following dashboards and charts were created in Power BI:
+  Daily Trend for Total Orders (Bar Chart)
+  Monthly/Hourly Trend for Total Orders (Line Chart)
+  Percentage of Sales by Pizza Category (Pie Chart)
+  Percentage of Sales by Pizza Size (Pie Chart)
+  Total Pizzas Sold by Category (Funnel Chart)
+  Top 5 Best Sellers by Revenue, Quantity & Orders (Bar Chart)
+  Bottom 5 Worst Sellers by Revenue, Quantity & Orders (Bar Chart)
 
 ## Project Workflow
 
-Imported raw pizza sales dataset into Microsoft SQL Server
-Used SQL queries in SSMS to clean and transform the data
-Calculated KPIs using SQL aggregations
-Connected Power BI to SQL Server
-Built interactive dashboards for business insights
+  Imported raw pizza sales dataset into Microsoft SQL Server
+  Used SQL queries in SSMS to clean and transform the data
+  Calculated KPIs using SQL aggregations
+  Connected Power BI to SQL Server
+  Built interactive dashboards for business insights
 
 # Tools & Technologies Used
 
